@@ -14,7 +14,7 @@ PetAI is a smart, AI-based service designed to understand and care for pets bett
 - ChatGPT (for AI-generated script)
 - Canva / Leonardo AI (for thumbnail creation)
 - ElevenLabs (for AI voice-over)
-- CapCut (for final video editing)
+- video cutter (for final video editing)
 
 ### 📂 Repository Contents:
 - Script.txt: AI-generated YouTube video script
